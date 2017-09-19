@@ -12,8 +12,6 @@ function teenager(age) {
   "You are not a teenager"
 }
 
-}
-
 function ageChecker(age) {
 
 }
